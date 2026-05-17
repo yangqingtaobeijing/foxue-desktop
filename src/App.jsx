@@ -13,7 +13,7 @@ import About from './pages/About';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/foxue-desktop">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
