@@ -39,7 +39,7 @@ export default function SutrasAdvanced() {
                 <p className="text-sm text-ink-light mt-2">—— 《法华经·方便品》</p>
               </div>
               <a
-                href="https://www.fodianshugui.com/fahua/"
+                href="https://cbetaonline.dila.edu.tw/zh/T09n0262"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 mt-4 text-gold hover:text-sandalwood transition-colors"
@@ -72,7 +72,7 @@ export default function SutrasAdvanced() {
                 <p className="text-sm text-ink-light mt-2">—— 《华严经》</p>
               </div>
               <a
-                href="https://www.fodianshugui.com/huayan/"
+                href="https://cbetaonline.dila.edu.tw/zh/T10n0279"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 mt-4 text-gold hover:text-sandalwood transition-colors"
@@ -104,7 +104,7 @@ export default function SutrasAdvanced() {
                 <strong>学习建议</strong>：《楞严经》义理深奥，建议有一定佛学基础后再学习。可以参考圆瑛法师的《楞严经讲义》或宣化上人的讲解。
               </p>
               <a
-                href="https://www.fodianshugui.com/lenyan/"
+                href="https://cbetaonline.dila.edu.tw/zh/T19n0945"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 mt-4 text-gold hover:text-sandalwood transition-colors"
@@ -137,7 +137,7 @@ export default function SutrasAdvanced() {
                 <p className="text-sm text-ink-light mt-2">—— 《维摩诘经》核心思想</p>
               </div>
               <a
-                href="https://www.fodianshugui.com/weimojie/"
+                href="https://cbetaonline.dila.edu.tw/zh/T14n0475"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 mt-4 text-gold hover:text-sandalwood transition-colors"

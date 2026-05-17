@@ -42,7 +42,7 @@ export default function SutrasIntro() {
                 <strong>学习建议</strong>：初学者可以先诵读原文，熟悉经文内容。然后参考玄奘法师的译注或当代法师的讲解，逐步理解"空"的含义。
               </p>
               <a
-                href="https://www.fodianshugui.com/xinjing/"
+                href="https://cbetaonline.dila.edu.tw/zh/T08n0251"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 mt-4 text-gold hover:text-sandalwood transition-colors"
@@ -78,7 +78,7 @@ export default function SutrasIntro() {
                 <strong>学习建议</strong>：《金刚经》义理较深，建议配合南怀瑾先生的《金刚经说什么》一起学习，更容易理解其中的深意。
               </p>
               <a
-                href="https://www.fodianshugui.com/jinjing/"
+                href="https://cbetaonline.dila.edu.tw/zh/T08n0235"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 mt-4 text-gold hover:text-sandalwood transition-colors"
@@ -110,7 +110,7 @@ export default function SutrasIntro() {
                 <strong>学习建议</strong>：此经适合早晚诵读，配合了解净土宗的基本教义。可以参考印光大师的开示，了解念佛的方法与功德。
               </p>
               <a
-                href="https://www.fodianshugui.com/amituofojing/"
+                href="https://cbetaonline.dila.edu.tw/zh/T12n0366"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 mt-4 text-gold hover:text-sandalwood transition-colors"
